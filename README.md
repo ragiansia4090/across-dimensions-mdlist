@@ -4,8 +4,7 @@
 
 ## 다운로드
 
-- **웹페이지에서 받기:** https://ragiansia4090.github.io/across-dimensions-mdlist/ 에서 「HTML 파일 다운로드」를 누르거나, 「웹에서 바로 열기」로 바로 쓸 수 있어요.
-- **ZIP으로 받기:** **[AD_checklist.zip](https://github.com/ragiansia4090/across-dimensions-mdlist/raw/main/AD_checklist.zip)** 을 받아서 압축을 풀면 `AD_checklist.html`이 나와요.
+**[AD_checklist.zip 받기](https://github.com/ragiansia4090/across-dimensions-mdlist/raw/main/AD_checklist.zip)** → 압축을 풀면 `AD_checklist.html`이 나와요. 브라우저로 열면 돼요.
 
 ## 기능
 
